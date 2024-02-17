@@ -1,0 +1,18 @@
+# From the GitHub .gitignore template collection!
+# https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
+# https://github.com/github/gitignore/commit/e65111c61888c36dabf07c6834959d736aa04291
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+
