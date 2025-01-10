@@ -2,6 +2,7 @@
 title = "Thoughts"
 menu = "main"
 type = "page"
+description = "the thinky feely things"
 +++
 
 # thoughts
