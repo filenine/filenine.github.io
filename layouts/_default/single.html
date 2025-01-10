@@ -12,6 +12,7 @@
 <content>
   {{ .Content }}
 </content>
+{{ if eq .Type "blog" }}
 <p>
 Tags:
 <br>
@@ -19,4 +20,5 @@ Tags:
   <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
   {{ end }}
 </p>
+{{ end }}
 {{ end }}
