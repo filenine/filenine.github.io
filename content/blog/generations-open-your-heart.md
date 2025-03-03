@@ -15,7 +15,7 @@ I watched [piplupfan77's excellent video](https://www.youtube.com/watch?v=uzSy80
 
 The chorus vocals were lower in pitch than the original song and followed a different melody. Where did they come from?
 
-{{< youtube "JJoopj7cYLs" >}}
+{{< youtube "oa4Kn0hh02U" >}}
 
 Despite what he said, I doubted that the vocals were re-recorded. The rest of the remix used the same vocals as the original song, so it was likely the chorus had been reused too. Besides, the original song was over a decade older than the remix. If the singer had re-recorded the chorus, the difference in his voice would likely have been noticeable.
 
